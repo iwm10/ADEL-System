@@ -1,0 +1,14 @@
+streamlit==1.25.0
+opencv-python==4.8.0.76
+Pillow==10.0.1
+numpy==1.26.0
+moviepy==1.0.3
+imageio[ffmpeg]==2.31.1
+ultralytics==8.0.178
+deep_sort_realtime==1.1.4
+imageio==2.31.1
+paddlepaddle==2.6.3
+paddleocr==2.6.0.0
+matplotlib==3.8.0
+pandas==2.1.1
+inference-sdk==0.22.2
