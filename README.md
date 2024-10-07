@@ -36,6 +36,7 @@ This topic aims To Count the density of each light traffic vehicle and manage ti
    pip install -r requirements.txt
 ### Usage:
 1. **Navigate to the project directory:**
+   
   https://huggingface.co/spaces/M12ths/ADEL_app
 
 
