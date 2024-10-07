@@ -44,6 +44,8 @@ This topic aims To Count the density of each light traffic vehicle and manage ti
 3. **Upload video through the app:**
    After you download the video within main page of app click "Browse files" and upload the video
 
-   <img src="https://github.com/iwm10/ADEL-System/blob/main/Detection-Violation-System/Interface%20ADEL_APP.jpg" alt="Alt Text" />
+   <div align="center">
+    <img src="https://github.com/iwm10/ADEL-System/blob/main/Detection-Violation-System/Interface%20ADEL_APP.jpg" alt="ADEL APP Interface" width="500"/>
+</div>
 
   
