@@ -26,6 +26,15 @@ This topic aims To Count the density of each light traffic vehicle and manage ti
 
 
 
+### Technology:
+- **Computer vision:** opencv, yolov8, pytourch, sahi
+- **OCR:** PaddelOCR
+- **Deployment:** streamlit
+- **Enviroment:** hugging face
+- **Database:** sqlite3
+- **Email server:**istmp
+
+
 
 ### Installation:
 1. **Clone the repository:**
