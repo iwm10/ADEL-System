@@ -32,7 +32,7 @@ This topic aims To Count the density of each light traffic vehicle and manage ti
 - **Deployment:** streamlit
 - **Enviroment:** hugging face
 - **Database:** sqlite3
-- **Email server:**istmp
+- **Email server:** istmp
 
 
 
