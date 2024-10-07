@@ -15,10 +15,11 @@
 
 
 
-## Detection Violation Lane Line Vehicles:
-This topic aims To let cameras detect violated vehicles that cross lane line rules and send them a message containing the fee and license plates information
+## Smart Light Traffic System:
+This topic aims To Count the density of each light traffic vehicle and manage timers of each light traffic according to how high and low the density of vehicles inside each light traffic, and detect any vehicle that violated lane line rules and send them messages with thier information and fee 
 
 ### Key Feature:
 - **Vehicles  Detection:** Identify each vehicle inside lanes with id
 - **Violated vehicles & license plate :** Detect violated vehicle with it's license plate
+- **
   
