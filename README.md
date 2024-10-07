@@ -38,8 +38,9 @@ This topic aims To Count the density of each light traffic vehicle and manage ti
 1. **Navigate to the project directory:**
    ```bash
    https://huggingface.co/spaces/M12ths/ADEL_app
-
-
+2. **Upload video for deployment:**
+   ```bash
+   https://youtu.be/NUNaUCcmvRw
 
 
   
