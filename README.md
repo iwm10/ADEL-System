@@ -82,7 +82,7 @@ After that we also use Sahi to help as for detect the long destance viechles and
     <img src="https://github.com/iwm10/ADEL-System/blob/main/Detection-Violation-System/Interface%20ADEL_APP.jpg" alt="ADEL APP Interface" width="500"/>
 </div>
 
-**Sumo Deployment:
+** Sumo Deployment:
 this is simulator for Density model and how it's work
 
 https://github.com/user-attachments/assets/c024e313-4bb6-4843-94ef-af3d80187d73
