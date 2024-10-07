@@ -30,8 +30,9 @@ This topic aims To Count the density of each light traffic vehicle and manage ti
 ### Installation:
 1. **Clone the repository:**
     ```bash
-   git clone https://github.com/your-username/smart-traffic-signal-system.git
-   cd smart-traffic-signal-system
+       git clone https://github.com/iwm10/ADEL-System
+    
+   
 2. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
