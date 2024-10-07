@@ -82,6 +82,11 @@ After that we also use Sahi to help as for detect the long destance viechles and
     <img src="https://github.com/iwm10/ADEL-System/blob/main/Detection-Violation-System/Interface%20ADEL_APP.jpg" alt="ADEL APP Interface" width="500"/>
 </div>
 
+##Sumo Deployment:
+this is simulator for Density model and how it's work
+<div align="center">
+    <img src="https://github.com/iwm10/ADEL-System/blob/main/Density/sumo/deployment.mp4" alt="Result" width="500"/>
+</div>
  4. **Result:**
     the result will show as output video of processes and images of detected violating vehicles and then by pressing on send email it'll send message to emails attached with violated vehicles
 
