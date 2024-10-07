@@ -12,3 +12,6 @@ paddleocr==2.6.0.0
 matplotlib==3.8.0
 pandas==2.1.1
 inference-sdk==0.22.2
+torch==2.0.0
+sahi==0.10.0
+opencv-python-headless>=4.5.5.62
