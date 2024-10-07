@@ -29,7 +29,7 @@ This topic aims To Count the density of each light traffic vehicle and manage ti
 ### Technology:
 - **Computer vision:** opencv, yolov8, pytourch, sahi
 - **OCR:** PaddelOCR
-- **Deployment:** streamlit
+- **Deployment:** streamlit,sumo simulator
 - **Enviroment:** hugging face
 - **Database:** sqlite3
 - **Email server:** istmp
@@ -46,6 +46,18 @@ By addressing our logic on Python to specific lanes rule by each lane to detect 
 
 <div align="center">
     <img src="https://github.com/iwm10/ADEL-System/blob/main/Detection-Violation-System/Data_set/Result" alt="Result" width="500"/>
+</div>
+
+## Density Model:
+We train the data to know if this veichle is have small weight or not becouse some cars like FJ detect as truck so this is not will help the model to know the accelerations of the veichles
+<div align="center">
+    <img src="https://github.com/iwm10/ADEL-System/blob/main/Density/Dataset/before Sahi.jpeg" alt="Result" width="500"/>
+</div>
+
+After that we also use Sahi to help as for detect the long destance viechles and this is the reseult
+
+<div align="center">
+    <img src="https://github.com/iwm10/ADEL-System/blob/main/Density/Dataset/after sahi and train.jpeg" alt="Result" width="500"/>
 </div>
 
 ### Installation:
