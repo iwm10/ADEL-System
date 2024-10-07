@@ -45,7 +45,7 @@ We trained our model by using yolov8s and divided it into two label license plat
 By addressing our logic on Python to specific lanes rule by each lane to detect the violated vehicle and extracting the images of license plate of the violated vehicle to extract the result by paddelOCR accuracy 85%.
 
 <div align="center">
-    <img src="https://github.com/iwm10/ADEL-System/blob/main/Detection-Violation-System/Interface%20ADEL_APP.jpg" alt="ADEL APP Interface" width="500"/>
+    <img src="https://github.com/iwm10/ADEL-System/blob/main/Detection-Violation-System/Data_set/Result" alt="Result" width="500"/>
 </div>
 
 ### Installation:
