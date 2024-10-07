@@ -50,4 +50,6 @@ This topic aims To Count the density of each light traffic vehicle and manage ti
 </div>
 
  4. **Result:**
-    the result will show as output video of processes and images of detected violating vehicles and then by pressing on send email it'll send message to emails attached with violated vehicles 
+    the result will show as output video of processes and images of detected violating vehicles and then by pressing on send email it'll send message to emails attached with violated vehicles
+
+    
