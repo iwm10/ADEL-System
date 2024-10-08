@@ -84,23 +84,33 @@ def classify_lane(vehicle_x_center, lane_boundaries):
     """
     Classifies the vehicle based on the center of its bounding box.
     """
-    if vehicle_x_center < lane_boundaries['middle']:
+    # If vehicle is outside the leftmost boundary (e.g., exiting the road), it's 'left_outside'
+    if vehicle_x_center < lane_boundaries['left_boundary']:
+        return 'left_outside'  # Vehicle outside the left boundary
+    elif vehicle_x_center < lane_boundaries['middle']:
         return 'left'
     elif lane_boundaries['middle'] <= vehicle_x_center < lane_boundaries['right']:
         return 'middle'
     else:
         return 'right'
+
     
     
 
     
 def check_lane_violation(prev_lane, current_lane):
-    # If the object changes lanes, it's a violation
+    """
+    Check if a lane violation occurred.
+    """
+    # No violation if the vehicle is outside the left lane boundary
+    if current_lane == 'left_outside':
+        return False  # Vehicle is outside, no violation
+    
+    # If the vehicle changes lanes and is not entering 'left_outside', flag a violation
     if prev_lane != current_lane:
-        return True  # Lane violation because the lane changed
-
-    # If the object stays in the same lane, it's not a violation
-    return False  # No violation, the object stays in the same lane
+        return True  # Lane violation detected
+    
+    return False  # No violation, vehicle stays in the same lane
 
 
 
@@ -126,6 +136,7 @@ def Process_video(model, tracker, input_path, output_video_path, vehicle_image_d
         last_violation_time = {}
 
         lane_boundaries = {
+            'left_boundary': 100,
             'middle': width // 3,
             'right': 2 * (width // 3)
         }
