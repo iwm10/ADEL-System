@@ -78,10 +78,11 @@ After that, we also used Sahi to help detect the long destance viechles and this
    
     
        streamlit run app.py
-           
+**or**
 1. **Access to the app:**
    ```bash
    https://huggingface.co/spaces/M12ths/ADEL_app
+-----------------------------------
 2. **Download video for deployment:**
    ```bash
    https://youtu.be/NUNaUCcmvRw
