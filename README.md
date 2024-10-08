@@ -1,6 +1,6 @@
 # ADEL-System
 
-<img src="[https://github.com/iwm10/ADEL-System/blob/main/Detection-Violation-System/Interface%20ADEL_APP.jpg](https://github.com/iwm10/ADEL-System/blob/main/Adel%20logo)" alt="Alt Text" width="300"/>
+<img src="https://github.com/iwm10/ADEL-System/blob/main/Adel%20logo" alt="Alt Text" width="300"/>
 
 
 
