@@ -28,6 +28,7 @@ This topic aims To Count the density of each light traffic vehicle and manage ti
 
 ### Technology:
 - **Computer vision:** opencv, yolov8, pytourch, sahi
+- **Tracker:** DeepSort tracker
 - **OCR:** PaddelOCR
 - **Deployment:** streamlit,sumo simulator
 - **Enviroment:** hugging face
@@ -42,7 +43,7 @@ We trained our model by using yolov8s and divided it into two label license plat
 
 
 
-By addressing our logic on Python to specific lanes rule by each lane to detect the violated vehicle and extracting the images of license plate of the violated vehicle to extract the result by paddelOCR accuracy 85%.
+By addressing our logic on Python to specific lanes rule by each lane and using deepsort tracker to follow car movement through the video  to detect the violated vehicle and extracting the images of the license plate of the violated vehicle to extract the result by paddelOCR accuracy 85%.
 
 <div align="center">
     <img src="https://github.com/iwm10/ADEL-System/blob/main/Detection-Violation-System/Data_set/Result" alt="Result" width="500"/>
