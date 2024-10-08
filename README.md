@@ -1,7 +1,7 @@
 # ADEL-System
 
 <div align="center">
-<img src="https://github.com/iwm10/ADEL-System/blob/main/Adel%20logo" alt="Alt Text" width="300"/>
+<img src="ADEL logo" alt="Alt Text" width="300"/>
 </div>
 
 
