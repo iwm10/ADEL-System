@@ -98,7 +98,7 @@ After that, we also used Sahi to help detect the long destance viechles and this
 The result will show as output video of processes and images of detected violating vehicles and then by pressing on send email it'll send messages to emails attached with violated vehicles
 
 
-https://github.com/iwm10/ADEL-System/issues/1#issue-2573891536
+![Video Demo](https://github.com/iwm10/ADEL-System/issues/1#issue-2573891536)
         
 
 
