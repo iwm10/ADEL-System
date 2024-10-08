@@ -33,7 +33,7 @@ This topic aims To Count the density of each light traffic vehicle and manage ti
 - **Deployment:** streamlit,sumo simulator
 - **Enviroment:** hugging face
 - **Database:** sqlite3
-- **Email server:** istmp
+- **Email server:** stmp
 
 ## Detection Violation Lane:
 We trained our model by using yolov8s and divided it into two label license plates, vehicles where the license plate reaches 68% mAP, and vehicles reach 92% mAP.
@@ -82,7 +82,8 @@ After that we also use Sahi to help as for detect the long destance viechles and
    <div align="center">
     <img src="https://github.com/iwm10/ADEL-System/blob/main/Detection-Violation-System/Interface%20ADEL_APP.jpg" alt="ADEL APP Interface" width="500"/>
 </div>
-4. REsult:
+
+4. **Result:**
 The result will show as output video of processes and images of detected violating vehicles and then by pressing on send email it'll send message to emails attached with violated vehicles
 
 <div align="center">
