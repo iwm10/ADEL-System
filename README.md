@@ -51,12 +51,12 @@ By addressing our logic on Python to specific lanes rule by each lane and using 
 </div>
 
 ## Density Model:
-We train the data to know if this veichle is have small weight or not becouse some cars like FJ detect as truck so this is not will help the model to know the accelerations of the veichles
+We train the data to know if this vehicle has a small weight or not because some cars like FJ detect it as a truck so this is not will help the model to know the accelerations of the vehicle
 <div align="center">
     <img src="https://github.com/iwm10/ADEL-System/blob/main/Density/Dataset/before Sahi.jpeg" alt="Result" width="500"/>
 </div>
 
-After that we also use Sahi to help as for detect the long destance viechles and this is the reseult
+After that, we also used Sahi to help detect the long destance viechles and this is the result
 
 <div align="center">
     <img src="https://github.com/iwm10/ADEL-System/blob/main/Density/Dataset/after sahi and train.jpeg" alt="Result" width="500"/>
@@ -65,12 +65,20 @@ After that we also use Sahi to help as for detect the long destance viechles and
 ### Installation:
 1. **Clone the repository:**
     ```bash
-       git clone https://github.com/iwm10/ADEL-System   
+   git clone https://github.com/iwm10/ADEL-System   
 2. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
 ### Usage:
-1. **Navigate to the project directory:**
+1.**Navegate to the project directory:**
+     ```bash
+
+    git clone https://github.com/iwm10/ADEL-System
+2.**Run the following command to access the Streamlit app:**
+    ```bash
+   
+    streamlit run app.py
+1. **Access to the app:**
    ```bash
    https://huggingface.co/spaces/M12ths/ADEL_app
 2. **Download video for deployment:**
