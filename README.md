@@ -71,13 +71,14 @@ After that, we also used Sahi to help detect the long destance viechles and this
    pip install -r requirements.txt
 ### Usage:
 1.**Navegate to the project directory:**
-     ```bash
+    
 
     git clone https://github.com/iwm10/ADEL-System
 2.**Run the following command to access the Streamlit app:**
-    ```bash
    
-    streamlit run app.py
+    
+       streamlit run app.py
+           
 1. **Access to the app:**
    ```bash
    https://huggingface.co/spaces/M12ths/ADEL_app
