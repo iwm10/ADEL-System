@@ -113,6 +113,6 @@ https://github.com/user-attachments/assets/c024e313-4bb6-4843-94ef-af3d80187d73
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Alrowais-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammed-alrowais-565563277/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Al%20Malki-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammed-almalki-m2000/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khaled%20AlGhamdi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/khaled-alghamdi-b33718a5/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khaled%20AlGhamdi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alghamdi-khaled/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Waleed%20AlIkhwan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/waleed-al-ikhwan-a9725a139/)
 
